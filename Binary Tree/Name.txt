@@ -1,0 +1,4 @@
+Nama : Komang Adi Pratama
+NIM : 2315101078
+Kelas : C
+Code : Stack
